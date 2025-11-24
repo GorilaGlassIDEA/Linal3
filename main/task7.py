@@ -172,7 +172,7 @@ ax.set_ylabel('Y')
 ax.set_zlabel('Z')
 
 plt.tight_layout()
-plt.savefig("task6_camera_transform.jpg", dpi=300, bbox_inches='tight')
+plt.savefig("task7.jpg", dpi=300, bbox_inches='tight')
 plt.show()
 
 # Дополнительно: вывод информации о камере
